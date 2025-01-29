@@ -37,6 +37,7 @@ Hello there! 👋 I'm a passionate **Software Engineer** with over **3 years of 
 ✔ **Dynamic Ola-style Maps Functionality** for real-time location tracking.  
 ✔ **Optimized Pagination** for handling large datasets efficiently.  
 ✔ **Real-time Firebase Notifications** to enhance user engagement.  
+✔ **Deploy backend projects on AWS with Elastic Beanstalk and Code Pipeline.  
 
 ---
 
