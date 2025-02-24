@@ -1,6 +1,6 @@
 # 🚀 Software Engineer | Full-Stack Developer | Tech Enthusiast
 
-Hello there! 👋 I'm a passionate **Software Engineer** with over **3 years of experience** in building scalable, high-performance applications. I specialize in **Full-Stack Development**, focusing on modern **web and mobile technologies** to create user-centric solutions.
+Hello there! 👋 I'm a passionate **Software Engineer** with over **1.6 years of experience** in building scalable, high-performance applications. I specialize in **Full-Stack Development**, focusing on modern **web and mobile technologies** to create user-centric solutions.
 
 ---
 
@@ -57,7 +57,7 @@ Hello there! 👋 I'm a passionate **Software Engineer** with over **3 years of 
 🔹 Leading full-stack development for scalable e-commerce solutions.  
 🔹 Enhancing UI/UX for a smooth shopping experience.
 
-### **Software Engineer & Educator | SkillyCoders** _(Jul 2022 - Sep 2024)_
+### **Freelancer | Web & App** _(Jul 2022 - Sep 2024)_
 📍 Kanpur, India  
 🔹 Built and maintained front-end applications using React Native.  
 🔹 Developed backends with Node.js and Express.js.  
