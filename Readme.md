@@ -45,6 +45,7 @@ Hello there! 👋 I'm a passionate **Software Engineer** with over **1.6 years o
 ### **Software Engineer | SuveraFresh Pvt Ltd** _(Oct 2024 - Present)_
 📍 Kanpur, India  
 🔹 Leading frontend development for scalable e-commerce solutions.
+
 🔹 Enhancing UI/UX for a smooth shopping experience.
 
 ### **Freelancer | Web & App** _(Jul 2022 - Sep 2024)_
@@ -55,6 +56,7 @@ Hello there! 👋 I'm a passionate **Software Engineer** with over **1.6 years o
 ### **Software Engineer | StartxLabs** _(Jul 2021 - Jun 2022)_
 📍 Gurugram, India  
 🔹 Built React.js and React Native applications.
+
 🔹 Optimized load times and UI/UX performance.
 
 ### **Software Engineer Intern | Mobiloitte** _(Mar 2021 - Jun 2021)_
